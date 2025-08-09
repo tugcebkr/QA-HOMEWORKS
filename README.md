@@ -23,4 +23,4 @@ It includes manual testing, API testing, SQL queries, web testing, and automatio
 
 ### 🔗 Connect with me
 - **LinkedIn:** [Tuğçe Bakır](https://www.linkedin.com/in/tugcebakir1/)
-- **Email:** tugce.bakir@example.com
+- **Email:** tugcebakir54@gmail.com
