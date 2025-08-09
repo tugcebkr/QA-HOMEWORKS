@@ -1,0 +1,62 @@
+<people>
+	<person>
+		<id>1</id>
+		<name>Ahmetcan Efe</name>
+		<address>
+			<city>İstanbul</city>
+			<street>Kadife Sokak</street>
+			<houseNumber>18</houseNumber>
+			<apartmentNumber>8</apartmentNumber>
+		</address>
+		<contacts>
+			<phoneNumber>+90 532 123 4567</phoneNumber>
+			<email>ahmetcan1@example.com</email>
+			<telegramUsername>@ahmetefe</telegramUsername>
+		</contacts>
+	</person>
+	<person>
+		<id>2</id>
+		<name>Özge Kaya</name>
+		<address>
+			<city>Ankara</city>
+			<street>Cumhuriyet Caddesi</street>
+			<houseNumber>10</houseNumber>
+			<apartmentNumber>3</apartmentNumber>
+		</address>
+		<contacts>
+			<phoneNumber>+90 555 987 6543</phoneNumber>
+			<email>ozge.kaya@example.com</email>
+			<telegramUsername>@özgekaya</telegramUsername>
+		</contacts>
+	</person>
+	<person>
+		<id>3</id>
+		<name>Deniz Yılmaz</name>
+		<address>
+			<city>İzmir</city>
+			<street>Mithatpaşa Sokak</street>
+			<houseNumber>7</houseNumber>
+			<apartmentNumber>2</apartmentNumber>
+		</address>
+		<contacts>
+			<phoneNumber>+90 530 111 2233</phoneNumber>
+			<email>denizyilmaz@example.com</email>
+			<telegramUsername>@denizyılmazz</telegramUsername>
+		</contacts>
+	</person>
+	<person>
+		<id>4</id>
+		<name>Tuğçe Bakır</name>
+		<address>
+			<city>Kocaeli</city>
+			<street>Atalay Sokak</street>
+			<houseNumber>40</houseNumber>
+			<apartmentNumber>20</apartmentNumber>
+		</address>
+		<contacts>
+			<phoneNumber>+90 544 765 4321</phoneNumber>
+			<email>tugcebakr1@example.com</email>
+			<telegramUsername>@tugceeb</telegramUsername>
+		</contacts>
+	</person>
+</people>

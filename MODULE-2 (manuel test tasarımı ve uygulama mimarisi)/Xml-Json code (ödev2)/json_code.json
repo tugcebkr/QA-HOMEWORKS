@@ -1,0 +1,64 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Ahmetcan Efe",
+      "address": {
+        "city": "İstanbul",
+        "street": "Kadife Sokak",
+        "houseNumber": "18",
+        "apartmentNumber": 8
+      },
+      "contacts": {
+        "phoneNumber": "+90 532 123 4567",
+        "email": "ahmetcan1@example.com",
+        "telegramUsername": "@ahmetefe"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Özge Kaya",
+      "address": {
+        "city": "Ankara",
+        "street": "Cumhuriyet Caddesi",
+        "houseNumber": "10",
+        "apartmentNumber": 3
+      },
+      "contacts": {
+        "phoneNumber": "+90 555 987 6543",
+        "email": "ozge.kaya@example.com",
+        "telegramUsername": "@özgekaya"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Deniz Yılmaz",
+      "address": {
+        "city": "İzmir",
+        "street": "Mithatpaşa Sokak",
+        "houseNumber": "7",
+        "apartmentNumber": 2
+      },
+      "contacts": {
+        "phoneNumber": "+90 530 111 2233",
+        "email": "denizyilmaz@example.com",
+        "telegramUsername": "@denizyılmazz"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Tuğçe Bakır",
+      "address": {
+        "city": "Kocaeli",
+        "street": "Atalay Sokak",
+        "houseNumber": "40",
+        "apartmentNumber": 20
+      },
+      "contacts": {
+        "phoneNumber": "+90 544 765 4321",
+        "email": "tugcebakr1@example.com",
+        "telegramUsername": "@tugceeb"
+      }
+    }
+  ]
+}
