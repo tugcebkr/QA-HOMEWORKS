@@ -1,5 +1,5 @@
-# QA-HOMEWORKS
-# QA Homeworks
+# QA projects
+# QA projects
 
 This repository contains my homework and practice tasks completed during the **GoIT Quality Assurance Engineer** course.  
 It includes manual testing, API testing, SQL queries, web testing, and automation basics.
